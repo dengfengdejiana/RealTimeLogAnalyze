@@ -6,7 +6,7 @@
     <!-- 设置每隔60秒刷新一次页面-->
     <meta http-equiv="refresh" content="60">
     <title>学习网课程搜索引擎访问统计</title>
-    <script src="js/echarts.min.js"></script>
+    <script src="js/echarts.min-0.js"></script>
     <script src="js/jquery-1.11.3.min.js"></script>
     <style type="text/css">
         div{
